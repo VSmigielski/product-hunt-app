@@ -1,0 +1,10 @@
+.productCard {
+    padding: .5rem;
+    margin: .5rem auto;
+    border: 2px solid black;
+    width: 20rem;
+}
+
+.buttons {
+    width: 100px;
+}
